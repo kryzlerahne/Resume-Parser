@@ -91,9 +91,11 @@ The look and feel of the interface is styled to be consistent with platforms lik
 [Live Demo URL](https://your-demo-link.com)
 
 ## Screenshots
+<img width="1898" height="878" alt="image" src="https://github.com/user-attachments/assets/2404aa58-4450-42ca-8188-f012065831e1" />
+<img width="1898" height="872" alt="image" src="https://github.com/user-attachments/assets/389f5d61-f273-4103-a434-68f50ff256cf" />
+<img width="1899" height="876" alt="image" src="https://github.com/user-attachments/assets/75262649-97fc-4a21-93b1-280dd8ee32b6" />
+<img width="1898" height="875" alt="image" src="https://github.com/user-attachments/assets/83d1fc8b-3980-4a3b-960c-de8a4d51fc75" />
 
-*(Add screenshots in this section to showcase UI and features)*
 
----
 
-Let me know if you want a separate section for backend/API setup, or if you’ll integrate any parsing libraries like `pdf-parse`, `mammoth`, or a third-party service.
+
