@@ -12,7 +12,7 @@ The app supports uploading resumes in both **PDF** and **Microsoft Word (.docx)*
 
 ### 🔍 Intelligent Resume Parsing
 
-Upon file upload, the app automatically extracts key information using text parsing logic (or external libraries, if applicable). The fields extracted include:
+Upon file upload, the app automatically extracts key information using an external API, called Affinda. The fields extracted include:
 
 * **First Name** *(required)*: Identifies the candidate’s given name.
 * **Last Name** *(required)*: Extracts the candidate’s family name.
@@ -24,7 +24,7 @@ Upon file upload, the app automatically extracts key information using text pars
 
 ### 📝 Pre-filled Editable Registration Form
 
-Once data is extracted, it automatically populates a user-friendly registration form. Every field remains **editable**, so users can verify or correct the data before submission.
+Once data is extracted, it automatically populates into the registration form. Every field remains **editable**, so users can verify or correct the data before submission.
 
 ### ✅ Real-time Form Validation
 
@@ -75,7 +75,7 @@ The look and feel of the interface is styled to be consistent with platforms lik
    npm run dev
    ```
 
-4. Open your browser and go to `http://localhost:5173` (or whatever port Vite/React is using)
+4. Open your browser and go to `http://localhost:5173` (or whatever port React is using)
 
 ## How to Test
 
@@ -85,10 +85,6 @@ The look and feel of the interface is styled to be consistent with platforms lik
 4. Edit any fields if necessary.
 5. Submit the form.
 6. Confirm that the submitted data is displayed correctly.
-
-## Optional Live Demo
-
-[Live Demo URL](https://your-demo-link.com)
 
 ## Screenshots
 <img width="1898" height="878" alt="image" src="https://github.com/user-attachments/assets/2404aa58-4450-42ca-8188-f012065831e1" />
