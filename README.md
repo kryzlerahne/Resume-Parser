@@ -6,12 +6,6 @@ This project is a web-based tool that allows users to upload their resume in PDF
 
 ## Features
 
-Here’s a refined and more descriptive version of the **Features** section with improved clarity and documentation style:
-
----
-
-## Features
-
 ### 📄 Resume Upload Support
 
 The app supports uploading resumes in both **PDF** and **Microsoft Word (.docx)** formats. This ensures compatibility with the most commonly used resume file types.
